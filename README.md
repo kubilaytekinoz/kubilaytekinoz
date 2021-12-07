@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kubilaytekinoz
+- 👋 Hi, I’m Kubilay Tekinöz
 - 👀 I’m interested in Java,Python
 - 🌱 I’m currently learning Java 
 - 📫 How to reach me ktekinoz@gmail.com
