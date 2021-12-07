@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Java,HTML,Node.js,SQL,JavaScript,CSS**
 
-- 🤝 I’m looking for help with **improve myself**
-
 - 📝 I regularly write articles on [www.dcdmatik.com](www.dcdmatik.com)
 
 - 📫 How to reach me **ktekinoz35@gmail.com**
